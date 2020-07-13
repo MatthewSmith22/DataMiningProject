@@ -1,4 +1,4 @@
-# DataMiningProject
+# BrainWaveData
 
 This the part of the final project for my Data Mining class. It was a group project and I have only included the code that I contributed. We found this dataset on Kaggle.
 
